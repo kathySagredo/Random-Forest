@@ -42,7 +42,7 @@ python -m venv .venv
 ### Mac/Linux
 
 ```bash
-source .venv/bin/activate
+source .venv/Scripts/activate
 ```
 
 5. Instalar dependencias:
@@ -70,3 +70,5 @@ El proyecto utiliza el dataset `diabetes.csv`.
 ## Autora
 
 Kathy Sagredo
+Miguel Pasten
+Carlos Bastías
